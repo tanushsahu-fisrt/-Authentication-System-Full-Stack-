@@ -35,7 +35,7 @@ AuthSystem is a full-stack authentication system built using React, Node.js, Exp
 
 | Signup Page | Login Page | Dashboard |
 |-------------|------------|-----------|
-| ![Signup](screenshots/signup.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Signup](auth-frontend/screenshots/signup.png) | ![Login](auth-frontend/screenshots/login.png) | ![Dashboard](auth-frontend/screenshots/dashboard.png) |
 
 ---
 
