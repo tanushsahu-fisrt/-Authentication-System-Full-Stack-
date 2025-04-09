@@ -39,11 +39,6 @@ AuthSystem is a full-stack authentication system built using React, Node.js, Exp
 
 ---
 
-## 📦 Installation
-
-### 🖥️ Backend
-
-```bash
-cd server
-npm install
-npm run dev
+🙋‍♂️ Author
+<h1>Tanush Sahu</h1>
+LinkedIn: [linkedin](https://www.linkedin.com/in/tanush-sahu-8a8a1222a/)
